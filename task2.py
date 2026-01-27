@@ -11,5 +11,5 @@ This will be silimar to something you have already done, but in this task you
 are breaking the code up into different sections to make each a function.
 """
 import task22
-task22.title
-task22.game
+task22.title()
+task22.game()

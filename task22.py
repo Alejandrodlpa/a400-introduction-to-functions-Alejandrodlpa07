@@ -17,5 +17,4 @@ def title():
           We will play a number guessing game, you try to guess a number from 1-100 
         and the program will tell you if the number is higher or lower, once you guess it you win. 
           """)
-    
-title()
+
